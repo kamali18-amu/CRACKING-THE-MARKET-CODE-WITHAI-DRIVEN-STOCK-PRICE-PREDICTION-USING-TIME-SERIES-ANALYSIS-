@@ -133,8 +133,9 @@ This project is licensed under the MIT License. See [LICENSE](LICENSE) for detai
 ---
 
 **Author**: Kamali S.D  
+**Github Profile Link**:https://github.com/kamali18-amu/CRACKING-THE-MARKET-CODE-WITHAI-DRIVEN-STOCK-PRICE-PREDICTION
 **Institution**: Sri Ramanujar Engineering College  
 **Department**: Computer Science and Engineering  
-**Date**: May 10, 2025
+
 
 Happy forecasting! 🚀📈
